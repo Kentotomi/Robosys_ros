@@ -30,9 +30,9 @@ roscore
 ```
 ターミナル2
 ```
-rosrun msg sender.py
+rosrun Robosys_ros sender.py
 ```
 ターミナル3
 ```
-rosrun msg receiver.py
+rosrun Robosys_ros receiver.py
 ```
